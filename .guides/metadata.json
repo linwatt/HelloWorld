@@ -1,0 +1,97 @@
+{
+ "sections": [
+  {
+   "id": "c01c0385-e8a0-6042-f878-6aae2db39223",
+   "title": "Hello Word Android App",
+   "files": [],
+   "layout": "1-panel-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hello-Word-Android-App-c01c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "726d7490-4404-6777-be37-88ea08451cd1",
+   "title": "Set up Dev Environment",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Set-up-Dev-Environment-726d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "537abf84-87e0-e9b9-4254-f5273ffeefdb",
+   "title": "Build Basic App",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Build-Basic-App-537a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "25c36568-20ea-937f-468c-1c63db0649a7",
+   "title": "Activities vs Layouts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Activities-vs-Layouts-25c3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cf2d3e7f-db46-0144-adc7-f82a5a131dc6",
+   "title": "Android Emulator",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Android-Emulator-cf2d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "76420d17-62f7-6adf-41f5-ee50dfe97b3b",
+   "title": "Change App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Change-App-7642.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "78f6b579-ea52-5081-01a9-396fa2bf90a0",
+   "title": "File Trees & Code Snippet",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/File-Trees---Code-Snippet-78f6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0f4e16fa-a6f0-9b51-784b-fc464ee24d2e",
+   "title": "Android",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Android-0f4e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
