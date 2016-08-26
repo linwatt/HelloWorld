@@ -25,23 +25,45 @@
   },
   {
    "id": "537abf84-87e0-e9b9-4254-f5273ffeefdb",
-   "title": "Build Basic App",
+   "title": "Open Android Studio",
    "files": [],
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Build-Basic-App-537a.md",
+   "content-file": ".guides/content/Open-Android-Studio-537a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dfef1573-127f-0dc7-b3de-4e1a9d1b0dd3",
+   "title": "Name Your App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Name-Your-App-dfef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "19504e30-1c3a-b83d-f7d3-fd3d41f7f4fb",
-   "title": "Build Basic App continued",
+   "title": "Select SDK",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Build-Basic-App-continued-1950.md",
+   "content-file": ".guides/content/Select-SDK-1950.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "733136b6-f1d4-525e-1dd8-3ccc316b1ddd",
+   "title": "Choose Template",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Choose-Template-7331.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -80,6 +102,17 @@
    "teacherOnly": false
   },
   {
+   "id": "0b731ea1-ee03-9c7e-3d3f-b7996f2898ae",
+   "title": "Open AVD & Select Hardware",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Open-AVD---Select-Hardware-0b73.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "33d4cdde-9ba5-ab90-0ac8-ffee6cf0c840",
    "title": "Android Emulator continued",
    "files": [],
@@ -91,12 +124,34 @@
    "teacherOnly": false
   },
   {
-   "id": "5910b600-7f3f-7ceb-a297-7e52337149ba",
-   "title": "Verify & Run the App",
+   "id": "90664a3e-2476-0640-53ec-bbf2111b7144",
+   "title": "Downloading...",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Verify---Run-the-App-5910.md",
+   "content-file": ".guides/content/Downloading----9066.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5910b600-7f3f-7ceb-a297-7e52337149ba",
+   "title": "Verify Settings",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Verify-Settings-5910.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b4f7f64a-6602-611d-8c85-68b89255cab0",
+   "title": "Run the App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Run-the-App-b4f7.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
