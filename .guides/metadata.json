@@ -4,7 +4,7 @@
    "id": "c01c0385-e8a0-6042-f878-6aae2db39223",
    "title": "Hello Word Android App",
    "files": [],
-   "layout": "1-panel-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hello-Word-Android-App-c01c.md",
@@ -36,6 +36,28 @@
    "teacherOnly": false
   },
   {
+   "id": "19504e30-1c3a-b83d-f7d3-fd3d41f7f4fb",
+   "title": "Build Basic App continued",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Build-Basic-App-continued-1950.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e673f7a5-37b6-9844-29cc-0dab938a55bf",
+   "title": "Main Activity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Main-Activity-e673.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "25c36568-20ea-937f-468c-1c63db0649a7",
    "title": "Activities vs Layouts",
    "files": [],
@@ -58,6 +80,28 @@
    "teacherOnly": false
   },
   {
+   "id": "33d4cdde-9ba5-ab90-0ac8-ffee6cf0c840",
+   "title": "Android Emulator continued",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Android-Emulator-continued-33d4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5910b600-7f3f-7ceb-a297-7e52337149ba",
+   "title": "Verify & Run the App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Verify---Run-the-App-5910.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "76420d17-62f7-6adf-41f5-ee50dfe97b3b",
    "title": "Change App",
    "files": [],
@@ -70,11 +114,22 @@
   },
   {
    "id": "78f6b579-ea52-5081-01a9-396fa2bf90a0",
-   "title": "File Trees & Code Snippet",
+   "title": "File Trees ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/File-Trees---Code-Snippet-78f6.md",
+   "content-file": ".guides/content/File-Trees--78f6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "770e237b-8bcb-05b8-9428-6c30c9728f71",
+   "title": "Code Snippet",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Code-Snippet-770e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
