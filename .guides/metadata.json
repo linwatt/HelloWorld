@@ -168,12 +168,34 @@
    "teacherOnly": false
   },
   {
-   "id": "78f6b579-ea52-5081-01a9-396fa2bf90a0",
-   "title": "File Trees ",
+   "id": "899aa9fd-01a8-1ddc-393d-8c92eb0973a5",
+   "title": "Android Studio - Android View",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/File-Trees--78f6.md",
+   "content-file": ".guides/content/Android-Studio---Android-View-899a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7d858b45-5812-6ad6-28df-d62645269467",
+   "title": "Android Studio - Project View",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Android-Studio---Project-View-7d85.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "78f6b579-ea52-5081-01a9-396fa2bf90a0",
+   "title": "File Tree",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/File-Tree-78f6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
